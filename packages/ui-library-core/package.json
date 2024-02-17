@@ -1,0 +1,29 @@
+{
+  "name": "ui-library-core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Mayur-Thinkbridge <mayurshinde6776@gmail.com>",
+  "homepage": "https://github.com/mayurshinde6776/UI-Library#readme",
+  "license": "ISC",
+  "main": "lib/ui-library-core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurshinde6776/UI-Library.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/ui-library-core.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/mayurshinde6776/UI-Library/issues"
+  },
+  "dependencies": {
+    "snabbdom": "^3.6.2"
+  }
+}

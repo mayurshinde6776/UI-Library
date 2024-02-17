@@ -1,0 +1,26 @@
+{
+  "name": "ui-library-web",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Mayur-Thinkbridge <mayurshinde6776@gmail.com>",
+  "homepage": "https://github.com/mayurshinde6776/UI-Library#readme",
+  "license": "ISC",
+  "main": "lib/ui-library-web.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurshinde6776/UI-Library.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/ui-library-web.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/mayurshinde6776/UI-Library/issues"
+  }
+}
